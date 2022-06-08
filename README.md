@@ -2,7 +2,7 @@
 
 ## _Widget de Feedback multiplataforma_
 
-![alt](/mobile/src/assets/feedwidgif.gif)
+![alt](/server/dist/feedwidgif.gif)
 
 ### 💻 Tecnologias
 
@@ -33,4 +33,4 @@ Você pode visualizar o layout do projeto através desse [link](<https://www.fig
 
 </br>
 
-![alt](/mobile/src/assets/Screenshot.png)
+![alt](/server/dist/Screenshot.png)
